@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request
+    url: https://github.com/noodlbox/community/discussions/categories/feature-requests
+    about: Suggest an idea or feature in Discussions
+  - name: Question
+    url: https://github.com/noodlbox/community/discussions/categories/q-a
+    about: Ask a question in Discussions
+  - name: Discord
+    url: https://discord.gg/noodlbox
+    about: Chat with us on Discord
